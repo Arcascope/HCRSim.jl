@@ -1,4 +1,6 @@
-# HCRSimJul
+# :no_entry: [DEPRECATED] Active at [circadian](https://github.com/Arcascope/circadian)
+
+## HCRSimJul
 
 Human Circadian Rhythms Simulations in Julia
 
